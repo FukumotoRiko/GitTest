@@ -123,6 +123,7 @@
             Person p3 = new Person("GoGo", "2000.4.7", Gender.FEMALE);
             Person p4 = new Person("Bob", "2000.4.7", Gender.FEMALE);
             Person p5 = new Person("Alex", "2000.5.8", Gender.MALE);
+            Person p6 = new Person("Taloy", "1997.10.6", Gender.FEMALE);
 
             Console.WriteLine(p1.ToString());
             Console.WriteLine(p2.ToString());

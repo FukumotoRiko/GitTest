@@ -120,8 +120,8 @@
         {
             Person p1 = new Person("Tom","1999.8.7",Gender.MALE);
             Person p2 = new Person("Jenny", "2000.4.7", Gender.FEMALE);
-            Person p3 = new Person("GoGo", "2000.4.7", Gender.FEMALE);
-
+            Person p3 = new Person("Bob", "2000.4.7", Gender.FEMALE);
+            Person p4 = new Person("Alex", "2000.5.8", Gender.MALE);
 
             Console.WriteLine(p1.ToString());
             Console.WriteLine(p2.ToString());
